@@ -7,14 +7,19 @@
     "scripts": [
         "js/data.js",
         "js/barchart.js",
-        "js/xychart.js"
+        "js/xychart.js",
+        "js/checkbox.js"
     ],
+    "locals":[
+        "grid-plotter"
+    ]
     "styles": [
         "css/area_plot.css"
     ],
     "dependencies": {
         "jmarca/queue": "^1.0.9",
         "square/crossfilter": "^1.3.11",
+        "component/debounce": "*",
         "mbostock/d3": "^3.4.13"
     }
 }
