@@ -1,0 +1,20 @@
+{
+    "name": "grid-plotter",
+    "main": "js/data.js",
+    "scripts": [
+        "js/data.js"
+    ],
+    "scripts": [
+        "js/data.js",
+        "js/barchart.js",
+        "js/xychart.js"
+    ],
+    "styles": [
+        "css/area_plot.css"
+    ],
+    "dependencies": {
+        "jmarca/queue": "^1.0.9",
+        "square/crossfilter": "^1.3.11",
+        "mbostock/d3": "^3.4.13"
+    }
+}

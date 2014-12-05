@@ -1,0 +1,6 @@
+{
+    "name": "app",
+    "paths": ["lib"],
+    "locals": ["grid-plotter"
+              ]
+}
