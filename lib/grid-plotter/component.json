@@ -10,9 +10,6 @@
         "js/xychart.js",
         "js/checkbox.js"
     ],
-    "locals":[
-        "grid-plotter"
-    ]
     "styles": [
         "css/area_plot.css"
     ],
